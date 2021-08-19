@@ -11,8 +11,8 @@ function gerarRelatorio(){
 function preencheTabela(listaEventos){
     var strTabela = `<table class="table">
                         <thread>
-                            <th class="text-center"> numSeq </th>
-                            <th class="text-center"> data </th>
+                            <th class="text-center"> Número de Sequência </th>
+                            <th class="text-center"> Data </th>
                             <th class="text-center"> Alarme </th>
                             <th class="text-center"> Hotname </th>
                             <th class="text-center"> IP </th>
